@@ -1,2 +1,3 @@
 # ACcode
-一些A过题的代码和题解
+something naive and simple
+一些不值得看的题目代码
