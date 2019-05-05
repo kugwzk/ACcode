@@ -5,7 +5,7 @@
 #include <string>
 #include <vector>
 #include <map>
-#define maxn 100100
+#define maxn 100100  
 #define inf 0x3f3f3f3f
 #define SIGMA 26
 #define REP(i,x,y) for(int i=x;i<(y);i++)
