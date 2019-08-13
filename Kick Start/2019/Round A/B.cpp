@@ -17,7 +17,7 @@ typedef long long ll;
 typedef pair<int,int> pii;
 int r, c, ma[300][300], t[300][300];
 int dx[] = {1, -1, 0, 0};
-int dy[] = {0, 0, -1, 1};
+
 int sum[555][555];
 int check(int limit) {
     memset(sum, 0, sizeof(sum));
